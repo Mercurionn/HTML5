@@ -1,0 +1,21 @@
+h1 {
+  font-size: 30px;
+  color:rgba(103,196,0,.4);
+}
+
+p a {
+  font-size: 20px;
+}
+
+.color {
+  color:green;
+}
+
+div {
+  background: rgba(103,198,0,0.9);
+  width: 40%;
+  margin: 2px;
+  padding: 20px;
+  border:1px solid #000;
+  display: inline-block;
+}
